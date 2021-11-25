@@ -1,0 +1,22 @@
+{
+  "name": "sch-v2x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htn274/sch-v2x.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htn274/sch-v2x/issues"
+  },
+  "homepage": "https://github.com/htn274/sch-v2x#readme",
+  "dependencies": {
+    "leaflet.motion": "^0.2.4"
+  }
+}
